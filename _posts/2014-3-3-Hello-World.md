@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: LeedCode·1184.公交车站间的距离
 ---
 discription:
