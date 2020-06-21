@@ -2,7 +2,7 @@
 layout: post
 title: LeetCode.1184.bus-distance 
 ---
-##Discription:
+## Discription:
 
 ---
 
@@ -12,7 +12,7 @@ title: LeetCode.1184.bus-distance
 
 返回乘客从出发点 start 到目的地 destination 之间的最短距离。
 
-##Solution:
+## Solution:
 
 ![_config.yml](../images/arith.png)
 

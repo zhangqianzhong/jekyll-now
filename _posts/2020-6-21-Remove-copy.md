@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LeetCode.2.Remove Duplicates from Sorted Array
+title: LeetCode.26.Remove Duplicates from Sorted Array
 ---
-##Discription
+## Discription
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
@@ -14,7 +14,7 @@ set a fast index(compare) and a slow index(flag)
 
 ---
 
-##Solution:
+## Solution:
 
 ![_config.yml](../images/remove.png)
 
