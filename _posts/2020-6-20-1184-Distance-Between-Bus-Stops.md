@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LeetCode.1184. 
+title: LeetCode.1184.Distance Between Bus Stops
 ---
 ## Discription
 
