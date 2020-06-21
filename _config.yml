@@ -9,7 +9,7 @@ name: ZQZ‘SITE
 description: YES
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/zhangqianzhong/zhangqianzhong.github.io/blob/master/images/CorLogo.png
+avatar: ../images/CorLogo.png
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://github.com/zhangqianzhong/zhangqianzhong.github.io/blob/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: zhangqianzhong@foxmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: zhangqianzhong
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
