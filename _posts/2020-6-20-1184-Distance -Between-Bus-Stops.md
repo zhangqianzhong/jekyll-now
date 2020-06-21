@@ -44,6 +44,12 @@ Return the shortest distance between the given start and destination stops.
 > Output: 4
 > Explanation: Distance between 0 and 3 is 6 or 4, minimum is 4.
 
+- **Constraints:** 
+  - 1 <= n <=10^4^
+  - distance.length == n
+  - 0 <= start, destination < n
+  - 0 <= distance[i] <= 10^4^
+
 ## Think
 
 ---
