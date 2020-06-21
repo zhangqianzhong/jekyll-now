@@ -14,7 +14,7 @@ set a fast index(compare) and a slow index(flag)
 
 ---
 
-## Solution:
+## Solution
 
 ![_config.yml](../images/remove.png)
 
