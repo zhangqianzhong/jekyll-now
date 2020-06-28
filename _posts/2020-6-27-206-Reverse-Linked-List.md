@@ -17,9 +17,11 @@ Example **1**:
 
 > Input:
 >
-> Input: 1->2->3->4->5->NULL
+> 1->2->3->4->5->NULL
 
-> Output: 5->4->3->2->1->NULL
+> Output: 
+>
+> 5->4->3->2->1->NULL
 
 ## Think
 
@@ -54,3 +56,5 @@ class Solution {
 ```
 
 ![_config.yml](../images/反转链表.png)
+
+[来源：力扣（LeetCode）著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。](https://leetcode-cn.com/problems/merge-sorted-array)
